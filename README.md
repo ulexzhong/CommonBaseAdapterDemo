@@ -1,5 +1,5 @@
 # CommonBaseAdapterDemo
-1、创建一个通用的CommonBaseAdapter类，适用于所有ListView 或者 RecyclerView ,避免每次使用list的时候都重复写类似的adapter代码<br>
+1、创建一个通用的CommonBaseAdapter类，适用于所有ListView 或者 GridView ,避免每次使用list的时候都重复写类似的adapter代码<br>
 2、同时，在这个项目的基础上提供一种分离Model层和View层的方式，将Model 和 View 彻底分离出来
 
 ##该项目分为两部分
